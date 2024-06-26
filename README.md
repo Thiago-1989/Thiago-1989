@@ -6,8 +6,7 @@
     <span>Thiago Silva de Oliveira</span>
 </h1>
 
-<p align="justify">Estudante de <strong>Tecnologia da Informação</strong>, meu primeiro contato com uma linguagem de programação foi em 2022 aos 33 anos, em seguida comecei a estudar Lógica de Programação em site indicado 
-  por um amigo chamado <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>, onde busco conhecimento até hoje pois entregam muito conteúdo, de forma gratuita cursos e com altíssima qualidade, no inicio de 2023 ingressei 
+<p align="justify">Estudante de <strong>Tecnologia da Informação</strong>, meu primeiro contato com uma linguagem de programação foi em 2022 aos 33 anos, em seguida comecei a estudar Lógica de Programação em  um site chamado <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>, indicado por um amigo, onde busco conhecimento até hoje pois entregam muito conteúdo, de forma gratuita cursos e com altíssima qualidade, no inicio de 2023 ingressei 
   na faculdade, comecei a cursar Análise e Desenvolvimento de Sistemas na Uninove e no semestre seguinte, migrei para a UNIVESP onde estou cursando BTI.
 
 <br>
